@@ -1,6 +1,6 @@
 ---
 title: Comics and Manga
-sidebar_label: Comics and Manga
+sidebar_label: Comics,Manga and Light Novels
 ---
 
 - [Armaell Library](http://armaell-library.net/) - Free, fansubs and no ads.
@@ -51,3 +51,6 @@ sidebar_label: Comics and Manga
 - [mangadex-dl](https://github.com/frozenpandaman/mangadex-dl) - Download manga from MangaDex.org.
 - [HakuNeko](https://github.com/manga-download/hakuneko) - Manga & Anime Downloader for Linux, Windows & macOS.
 - [Mylar](https://github.com/evilhero/mylar) - An automated Comic Book downloader (cbr/cbz) for use with SABnzbd, NZBGet and torrents.
+
+## Light Novels
+- [Novel Updates](https://www.novelupdates.com/) - Novel Updates. A website to read many novels created by the community.
